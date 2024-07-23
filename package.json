@@ -1,0 +1,22 @@
+{
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000q\u0000r\u0000-\u0000c\u0000o\u0000d\u0000e\u0000-\u0000g\u0000e\u0000n\u0000e\u0000r\u0000a\u0000t\u0000o\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreya09032003/qr-code-generator.git"
+  },
+  "author": "shreya adhikari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreya09032003/qr-code-generator/issues"
+  },
+  "homepage": "https://github.com/shreya09032003/qr-code-generator#readme",
+  "dependencies": {
+    "qrcode": "^1.5.3"
+  }
+}
