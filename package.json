@@ -1,6 +1,6 @@
 {
   "name": "@shreyaadhikari/qr-code-generator",
-  "version": "1.0.0",
+  "version": "1.0.14",
   "description": "A utility package to generate QR codes",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "homepage": "https://github.com/shreya09032003/qr-code-generator#readme",
   "dependencies": {
     "qrcode": "^1.5.3"
-  }
+  },
+  "devDependencies": {}
 }
