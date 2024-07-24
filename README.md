@@ -4,7 +4,6 @@
 
 QR Code Generator is a simple Node.js package for generating QR codes and saving them as image files. Ideal for adding QR code functionality to your Node.js applications effortlessly.
 
-![Build Status](https://img.shields.io/travis/username/repo.svg)
 
 ![Version](https://img.shields.io/npm/v/package-name.svg)
 
